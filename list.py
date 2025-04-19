@@ -8,7 +8,7 @@ my_list.append(30)
 my_list.append(40)
 
 # insert (15) at the second position 
-my_list.insert(15)
+my_list.insert(1, 15)
 
 # extend my_list with another list
 my_list.extend([50, 60, 70])
